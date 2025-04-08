@@ -17,7 +17,7 @@ images = ["/logo.png"]
 
 [params.home.profile]
     # gravatarEmail = "nuthasith.g@gmail.com"
-    avatarURL = "images/profile_picture.JPG"
+    avatarURL = "images/drone.jpg"
     title = "Nuthasith Gerdpratoom"
     subtitle = "Hello! I'm a second-year master's student at Kyushu University"
 
