@@ -19,7 +19,7 @@ images = ["/logo.png"]
     # gravatarEmail = "nuthasith.g@gmail.com"
     avatarURL = "images/drone.jpg"
     title = "Nuthasith Gerdpratoom"
-    subtitle = "Hello! I'm a second-year master's student at Kyushu University"
+    subtitle = "Hello! I'm a second-year master's student at Kyushu University."
 
 [params.social]
     GitHub = "nat9dai"
@@ -34,10 +34,18 @@ images = ["/logo.png"]
 
 [menu]
   [[menu.main]]
-    name = "Profile"
+    name = "About"
     url = "/profile/"
     weight = 1
   [[menu.main]]
+    name = "Publications"
+    url = "/publications/"
+    weight = 2
+  [[menu.main]]
+    name = "Awards"
+    url = "/awards/"
+    weight = 2
+  [[menu.main]]
     name = "Projects"
     url = "/projects/"
-    weight = 2
+    weight = 3
